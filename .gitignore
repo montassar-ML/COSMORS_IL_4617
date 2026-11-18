@@ -1,0 +1,57 @@
+# Local Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+
+# Generated figures, manuscript files and transient reports
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.svg
+*.pdf
+*.docx
+*.pptx
+*.txt
+!requirements.txt
+*.log
+*.out
+*.err
+*.tmp
+*.zip
+*.7z
+
+# Licensed AMS inputs and binary calculation results
+*.coskf
+*.cosmo
+*.crskf
+*.rkf
+*.kf
+*.sh
+01_database/ions_master.csv
+00_source_metadata/
+**/jobs/
+**/pilot/
+**/recovery/
+**/cosmo_ascii/
+
+# Reproducible downstream outputs
+/08_QC/
+/09_statistics/
+/10_pareto/
+/11_PCA_clustering/
+/12_shortlist/
+/13_henry_representation/
+/07_master_table/*
+!/07_master_table/IL_master_table_4617.csv
+
+# Operating system and editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
