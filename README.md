@@ -1,6 +1,6 @@
 # COSMO-RS Screening of 4,617 Ionic Liquids
 
-Research data and computational workflow accompanying the manuscript:
+
 
 **Solute-Dependent Thermodynamics of Hydrogen and Water in 4,617 Ionic-Liquid Candidates: COSMO-RS Screening, Pareto Optimization, and Chemical-Space Analysis**
 <img width="1536" height="1024" alt="Computational Workflow and Ionic Liquid Example (2)" src="https://github.com/user-attachments/assets/d43f0aad-20aa-4573-a336-69263fedd252" />
