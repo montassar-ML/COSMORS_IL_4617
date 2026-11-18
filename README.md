@@ -3,6 +3,7 @@
 Research data and computational workflow accompanying the manuscript:
 
 **Solute-Dependent Thermodynamics of Hydrogen and Water in 4,617 Ionic-Liquid Candidates: COSMO-RS Screening, Pareto Optimization, and Chemical-Space Analysis**
+<img width="1536" height="1024" alt="Computational Workflow and Ionic Liquid Example (2)" src="https://github.com/user-attachments/assets/d43f0aad-20aa-4573-a336-69263fedd252" />
 
 ## Overview
 
@@ -22,9 +23,9 @@ $$
 
 ## Repository Contents
 
-- `07_master_table/` — Complete dataset of 4,617 ionic liquids.
-- `scripts/` — COSMO-RS screening, statistical analysis, variance decomposition, Pareto optimization, PCA, K-means clustering, and Henry representation analysis.
-- `requirements.txt` — Python dependencies.
+- `07_master_table/`  Complete dataset of 4,617 ionic liquids.
+- `scripts/`  COSMO-RS screening, statistical analysis, variance decomposition, Pareto optimization, PCA, K-means clustering, and Henry representation analysis.
+- `requirements.txt`  Python dependencies.
 
 ## Reproducibility
 
